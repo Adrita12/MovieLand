@@ -3,9 +3,9 @@ import {useState, useEffect} from 'react';
 import MovieCard from './MovieCard';
 import SearchIcon from "./search.svg";
 import './App.css';
-//6fd02c95
 
-const API_URL = 'http://www.omdbapi.com/?apikey=6fd02c95';
+
+const API_URL = 'http://www.omdbapi.com/?apikey=apikey';
 
 
 
